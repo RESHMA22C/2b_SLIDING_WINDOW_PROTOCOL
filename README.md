@@ -8,7 +8,7 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-Clientand Server:
+Client and Server:
 ![image](https://github.com/RESHMA22C/2b_SLIDING_WINDOW_PROTOCOL/assets/147474426/01b67582-2572-416c-bad4-85383c39239d)
 
 
