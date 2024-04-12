@@ -13,9 +13,9 @@ Client and Server:
 
 
 ## OUPUT
-Client:
+
 ![image](https://github.com/RESHMA22C/2b_SLIDING_WINDOW_PROTOCOL/assets/147474426/4db418d4-a245-4371-b5d8-095216f7ca4f)
-Server:
+
 ![image](https://github.com/RESHMA22C/2b_SLIDING_WINDOW_PROTOCOL/assets/147474426/506c16dd-9817-4355-8418-35f91c188d53)
 
 ## RESULT
